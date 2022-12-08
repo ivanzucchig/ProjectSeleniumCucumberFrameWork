@@ -44,3 +44,7 @@ w
 G.idea/sonarlint/issuestore/6/7/67c0dae0e68b215f0c04c4b74bbd759a58cd6d39,6/c/6c0cc625cbd64f34b718088268e95807ce77fbd8
 w
 G.idea/sonarlint/issuestore/d/4/d48ffc4f5a713705e70e25777ee492934205e85d,5/b/5b8272fc1c36742ee94b9c4203c048313bc8198c
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+Q
+!src/test/java/utils/TestBase.java,4/3/435e1320078f3caf016a0a2227530a2c4b166fa5
