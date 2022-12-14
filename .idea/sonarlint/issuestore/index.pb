@@ -85,8 +85,6 @@ w
 G.idea/sonarlint/issuestore/5/4/54c7203ff01d47e2116b85a9937c49fc01bff835,2/c/2cb58315a31b49edbdc30c2360d7ad7be898e360
 w
 G.idea/sonarlint/issuestore/c/8/c8c182c76adf7383a19db616d27238c83528b9ce,4/4/44953dd8ac32d71da5ca0ba44d9660e84a1a17a6
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
